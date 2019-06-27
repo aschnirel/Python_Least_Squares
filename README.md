@@ -1,5 +1,5 @@
 # Python_Least_Squares
-Least Squares code created for USF course MSAN 502. 
+Least Squares code. 
 
 100% original code by Addie Schnirel. All rights reserved. 
 
